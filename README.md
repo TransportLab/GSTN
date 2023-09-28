@@ -1,7 +1,7 @@
-# GSTN: the Growth of the Sydney Train Network model
-GSTN is an agent-based simulation model to replicate the growth of Sydney railway networks by given exogenous historical evolution in land use.
+# RANGE: Rail Agent-based Network Growth and Evolution
+RANGE is an agent-based simulation model to replicate the growth of Sydney railway networks by given exogenous historical evolution in land use.
 # Model:
-Check out the GSTN_Model.ipynb file. 
+Check out the RANGE_Model.ipynb file. 
 # Reference:
 @article{lahoorpoor2023agent,
   title={An agent-based simulation model for the growth of the Sydney Trains network},
